@@ -1,0 +1,103 @@
+#Logo {
+    text-align: center;
+}
+
+#Logo img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+#text {
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#text h1 {
+    font-size: -webkit-xxx-large;
+    // font-size: 24px; 
+}
+
+#text p {
+
+    font-size: 20px;
+}
+
+#key h1 {
+    font-size: -webkit-xxx-large;
+    // font-size: 24px; 
+    text-align: center;
+
+}
+
+.col-md-3 {
+    box-shadow: 5px 5px 5px 5px lightblue;
+    height: 200px;
+    width: 350px;
+    margin: 1%;
+}
+
+#key {
+    text-align: center;
+}
+
+#image {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: xx-large;
+}
+
+#partners {
+    text-align: center;
+}
+
+#footer-image{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: xx-large;
+}
+
+#footer{
+
+    background-color: black;
+    color:#fff;
+    height: 30px;
+}
+#footer-2{
+    background-color: rgb(56, 54, 54);
+    height: 50px;
+}
+
+// .whatsapp {
+//     position: fixed;
+//     right: 0px; /* Adjust the left distance as needed */
+//     bottom: 30%; /* Adjust the bottom distance as needed */
+// }
+
+// .whatsapp button {
+//     background-color: #4c93a4; /* WhatsApp green color */
+//     color: #fff;
+//     padding: 10px 20px;
+//     border: none;
+//     border-radius: 5px;
+//     cursor: pointer;
+// }
+
+
+// slider

@@ -1,0 +1,31 @@
+.whatsapp {
+    position: fixed;
+    right: 0px; /* Adjust the left distance as needed */
+    bottom: 20%; /* Adjust the bottom distance as needed */
+}
+
+.whatsapp button {
+    background-color: #4c93a4; /* WhatsApp green color */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button {
+    position: fixed;
+    right: 1%; /* Adjust the left distance as needed */
+    bottom: 5%; /* Adjust the bottom distance as needed */
+}
+
+.button button {
+    background-color: #963b3b; /* WhatsApp green color */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5%;
+    cursor: pointer;
+    font-size: larger;
+}
+

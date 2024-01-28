@@ -1,0 +1,9 @@
+{
+    "git.branchRandomName.enable": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "git.terminalGitEditor": true,
+    "git.verboseCommit": true
+}

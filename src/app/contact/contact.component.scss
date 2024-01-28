@@ -1,0 +1,46 @@
+#footer-image{
+    position: relative;
+    text-align: center;
+    color: white;
+    margin: 0px;
+}
+.centered1 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: xx-large;
+}
+.col-md-2{
+    box-shadow: 2px 2px 2px 2px rgb(176, 173, 173);
+    margin: 10px;
+    height:200px;
+    width: 270px;
+}
+
+#blue{
+    background-color: #105f83;
+    height: 100px;
+    font-size: x-large;
+    color: white;
+    padding: 4%;
+}
+
+.centered1 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: xx-large;
+}
+
+#footer{
+
+    background-color: black;
+    color:#fff;
+    height: 30px;
+}
+#footer-2{
+    background-color: rgb(56, 54, 54);
+    height: 50px;
+}

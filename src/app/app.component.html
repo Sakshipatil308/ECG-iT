@@ -1,0 +1,27 @@
+
+<app-nav></app-nav>
+<router-outlet></router-outlet>
+
+
+
+
+
+<!-- <app-footer></app-footer> -->
+<div class="whatsapp">
+  <a href="https://wa.me/919370352758?text=Hello%20from%20your%20website" target="_blank">
+      <button>Chat on whatsapp</button>
+  </a>
+</div>
+
+<div class="button" >
+  <!-- <a href="/home"> -->
+    <a  (click)="scrollToTop()" >
+      <button ><b>&#8593;</b></button>
+  </a>
+</div>
+
+<script>
+  document.getElementById('moveButton').addEventListener('click', function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+</script>
