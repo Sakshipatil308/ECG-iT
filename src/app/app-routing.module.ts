@@ -12,7 +12,7 @@ import { NotFoundComponent } from './not-found/not-found.component';
 
 const routes: Routes = [
   {path: 'nav', component: NavComponent },
-  {path: 'home', component: HomeComponent },
+  {path: 'ECG-iT', component: HomeComponent },
   {path: 'footer', component: FooterComponent },
   {path: 'contact', component: ContactComponent },
   {path: 'blog', component: BlogComponent },
@@ -20,7 +20,7 @@ const routes: Routes = [
   {path: 'techno', component: TechnoComponent },
   {path: 'clients', component: ClientsComponent },
   { path: '**', component: NotFoundComponent },
-  {path: '',   redirectTo: './home', pathMatch: 'full' },
+  {path: '',   redirectTo: './ECG-iT', pathMatch: 'full' },
 ];
 
 @NgModule({
